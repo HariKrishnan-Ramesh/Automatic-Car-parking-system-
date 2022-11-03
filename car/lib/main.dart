@@ -1,5 +1,5 @@
 
-import 'dart:js';
+
 
 import 'package:flutter/material.dart';
 import 'package:mycar_app/forgotp.dart';
@@ -8,7 +8,7 @@ import 'package:mycar_app/register.dart';
 import 'package:mycar_app/signin.dart';
 import 'slotdataWidget.dart';
 import 'pincode.dart';
-import 'dart:js';
+
 void main() {
   runApp(
   const MyApp()
